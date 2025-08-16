@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/computing/photos/banner.png)
+![banner](/models/photos/banner.png)
 
 ## Models of Computation
 
