@@ -1,5 +1,5 @@
 > [architecture](../)
 
-![banner](/go/photos/banner.png)
+![banner](/models/photos/banner.png)
 
 ## Distributed
