@@ -8,3 +8,4 @@
 * [Communicating Sequential Processes (Hoare)](csp)
 * [Federated Learning Systems](federated)
 * [Micro Services](microservices)
+* [Collaborative Distributed Intelligence (cdi&trade;)](/cdi)
