@@ -1,5 +1,4 @@
-> [home](/systems)
-> &bull; [cdi&trade;](/cdi)
+> [home](/computing)
 > &bull; Work in progress...
 
 ![banner](/models/photos/banner.png)
